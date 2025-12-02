@@ -1,1 +1,1 @@
-"# mi_proyecto_git_remoto" 
+"mi_proyecto_git_remoto" 
