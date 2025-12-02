@@ -1,2 +1,2 @@
 "Hola Git! Este es mi primer archivo." 
-"Esta linea fue añadida directamente en GitHub."
+"Esta linea fue añadida directamente en GitHub"
