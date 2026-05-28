@@ -1,1 +1,7 @@
-Dayler giraldo urrea, se monta mi landing page es un portafolio donde habla de mi: las tegnologias utilizadas  para desarrolar este portafolio fueron: html, css, javascript 
+echo "# mi_proyecto_git_remoto" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/villecarsi-wq/mi_proyecto_git_remoto.git
+git push -u origin main
